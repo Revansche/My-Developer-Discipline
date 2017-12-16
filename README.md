@@ -1,8 +1,15 @@
 # My-Developer-Discipline
 This is a collection of software development discipline that i applied or studiying on my works
 
+### Design Pattern
+#### Swift
+- MVVM Basic: https://cocoacasts.com/model-view-viewmodel-in-swift
+- VIPER Basic: https://blog.mindorks.com/building-ios-app-with-viper-architecture-8109acc72227
+
 ### Code Style
-#### Swift: https://github.com/linkedin/swift-style-guide
+#### Swift
+- Linked In Style Guide: https://github.com/linkedin/swift-style-guide
+- Ray Wenderlich Style Guide: https://github.com/raywenderlich/swift-style-guide
 
 ### Version Control
 #### Git
