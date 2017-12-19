@@ -1,5 +1,5 @@
 # My-Developer-Discipline
-This is a collection of software development discipline that i applied or studiying on my works
+This is a collection of software development discipline that i applied or studied on my works
 
 ### Design Pattern
 #### Swift
