@@ -19,3 +19,6 @@ This is a collection of software development discipline that i applied or studie
 ### Testings
 #### iOS
 - iOS Apps basic testings: https://www.guru99.com/getting-started-with-ios-testing.html
+#### Dependency Injection
+- Dependency injection in swift: https://medium.com/makingtuenti/dependency-injection-in-swift-part-1-236fddad144a
+- Inversion of Control: https://martinfowler.com/articles/injection.html
